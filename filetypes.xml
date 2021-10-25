@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <removed_mapping ext="ng" type="HTML" />
+      <mapping pattern="SwitchConfirmDisplay.php" type="PHP" />
+      <mapping ext="stub" type="PHP" />
+    </extensionMap>
+  </component>
+</application>
