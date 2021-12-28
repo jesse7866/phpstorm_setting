@@ -3,7 +3,7 @@
     <option name="customScope" value="所有位置" />
     <option name="defaultScopeName" value="所有位置" />
     <option name="SEARCH_SCOPE" value="所有位置" />
-    <mask>*.js</mask>
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.tpl</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -17,5 +17,6 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
