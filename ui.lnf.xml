@@ -3,7 +3,6 @@
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="30" />
-    <option name="PIN_FIND_IN_PATH_POPUP" value="true" />
     <option name="SHOW_PINNED_TABS_IN_A_SEPARATE_ROW" value="true" />
   </component>
 </application>
